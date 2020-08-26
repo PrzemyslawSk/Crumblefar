@@ -1,0 +1,490 @@
+fileFormatVersion: 2
+guid: c17defcb98f5ca7418d5dabf4942f0f7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -230512605602044988
+    second: "trees \u2014 kopia_0"
+  - first:
+      213: -6792488949166593501
+    second: "trees \u2014 kopia_1"
+  - first:
+      213: -3185286795286007278
+    second: "trees \u2014 kopia_2"
+  - first:
+      213: 3429085684637929117
+    second: "trees \u2014 kopia_3"
+  - first:
+      213: -5499963744709243301
+    second: "trees \u2014 kopia_4"
+  - first:
+      213: 8983085194401307596
+    second: "trees \u2014 kopia_5"
+  - first:
+      213: 9000529888365718500
+    second: "trees \u2014 kopia_6"
+  - first:
+      213: -8275265790702748813
+    second: "trees \u2014 kopia_7"
+  - first:
+      213: -1304151482690615970
+    second: "trees \u2014 kopia_8"
+  - first:
+      213: 4969842629726848204
+    second: "trees \u2014 kopia_9"
+  - first:
+      213: 513828099549494507
+    second: "trees \u2014 kopia_10"
+  - first:
+      213: 8700947130150647325
+    second: "trees \u2014 kopia_11"
+  - first:
+      213: 1604389601581317597
+    second: "trees \u2014 kopia_12"
+  - first:
+      213: -5288341662123333664
+    second: "trees \u2014 kopia_13"
+  - first:
+      213: -1141306664376248105
+    second: "trees \u2014 kopia_14"
+  - first:
+      213: 2446123110126062456
+    second: "trees \u2014 kopia_15"
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "trees \u2014 kopia_0"
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 264
+        width: 57
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c327daa10e0dccf0800000000000000
+      internalID: -230512605602044988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "trees \u2014 kopia_1"
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 290
+        width: 103
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32aa824f94b3cb1a0800000000000000
+      internalID: -6792488949166593501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "trees \u2014 kopia_2"
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 289
+        width: 87
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2123c3b39869bc3d0800000000000000
+      internalID: -3185286795286007278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "trees \u2014 kopia_3"
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 353
+        width: 128
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9e8839134f869f20800000000000000
+      internalID: 3429085684637929117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "trees \u2014 kopia_4"
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 224
+        width: 40
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5e041f3d143ca3b0800000000000000
+      internalID: -5499963744709243301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "trees \u2014 kopia_5"
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 301
+        width: 50
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccb5c5fc3645aac70800000000000000
+      internalID: 8983085194401307596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "trees \u2014 kopia_6"
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 228
+        width: 62
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eb23522f3e48ec70800000000000000
+      internalID: 9000529888365718500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "trees \u2014 kopia_7"
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 128
+        width: 57
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37b783b8b99582d80800000000000000
+      internalID: -8275265790702748813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "trees \u2014 kopia_8"
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 128
+        width: 59
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e554decd229b6ede0800000000000000
+      internalID: -1304151482690615970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "trees \u2014 kopia_9"
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 135
+        width: 89
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc446765a8d68f440800000000000000
+      internalID: 4969842629726848204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "trees \u2014 kopia_10"
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 136
+        width: 83
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: becf2452feb712700800000000000000
+      internalID: 513828099549494507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "trees \u2014 kopia_11"
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 130
+        width: 80
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d167516b059ffb870800000000000000
+      internalID: 8700947130150647325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "trees \u2014 kopia_12"
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 3
+        width: 122
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dddb59b97dfe34610800000000000000
+      internalID: 1604389601581317597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "trees \u2014 kopia_13"
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 4
+        width: 95
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e76d32f6490c96b0800000000000000
+      internalID: -5288341662123333664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "trees \u2014 kopia_14"
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 6
+        width: 91
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d8511ab2a34920f0800000000000000
+      internalID: -1141306664376248105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "trees \u2014 kopia_15"
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 7
+        width: 98
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87b00ff220062f120800000000000000
+      internalID: 2446123110126062456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
